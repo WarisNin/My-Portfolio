@@ -8,6 +8,7 @@ import jquery from "../assets/jquery.png";
 import php from "../assets/php.png";
 import reactImage from "../assets/react.png";
 import tailwind from "../assets/tailwind.png";
+import git from "../assets/git.png";
 
 const Experience = () => {
 	const techs = [
@@ -58,6 +59,12 @@ const Experience = () => {
 			src: reactImage,
 			title: "React",
 			style: "shadow-cyan-400",
+		},
+		{
+			id: 9,
+			src: git,
+			title: "Git Version Control",
+			style: "shadow-[#F1502F]",
 		},
 	];
 
