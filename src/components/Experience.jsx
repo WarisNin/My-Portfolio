@@ -63,7 +63,7 @@ const Experience = () => {
 		{
 			id: 9,
 			src: git,
-			title: "Git Version Control",
+			title: "Git",
 			style: "shadow-[#F1502F]",
 		},
 	];
@@ -71,7 +71,7 @@ const Experience = () => {
 	return (
 		<div
 			name="experience"
-			className="bg-gradient-to-b from-gray-900 to-slate-900 w-full h-screen"
+			className="bg-gradient-to-b from-gray-900 to-slate-900 w-full sm:h-screen"
 		>
 			<div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
 				<div>
