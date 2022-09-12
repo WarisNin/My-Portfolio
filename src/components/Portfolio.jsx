@@ -4,6 +4,7 @@ import dice from "../assets/porfolio/dice.png";
 import drumkit from "../assets/porfolio/drumkit.png";
 import simon from "../assets/porfolio/simon.png";
 import tindog from "../assets/porfolio/tindog.png";
+import weather from "../assets/porfolio/weather.png";
 
 const Portfolio = () => {
 	const portfolios = [
@@ -37,6 +38,12 @@ const Portfolio = () => {
 			src: simon,
 			href1: "https://warisnin.github.io/Simon/",
 			href2: "https://github.com/WarisNin/Simon",
+		},
+		{
+			id: 6,
+			src: weather,
+			href1: "https://warisweatherapp.netlify.app/",
+			href2: "https://github.com/WarisNin/Weather-App",
 		},
 	];
 

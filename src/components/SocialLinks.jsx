@@ -52,7 +52,7 @@ const SocialLinks = () => {
 					Resume <BsFileEarmarkPersonFill size={30} />
 				</>
 			),
-			href: "/waris_resume.pdf",
+			href: "/CV_waris.pdf",
 			style: "bg-gray-600 rounded-br-md",
 			download: true,
 		},
